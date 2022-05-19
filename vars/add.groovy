@@ -1,4 +1,4 @@
 def call(FirstNo,SecondNo) {
-  sum=1stNo+2ndNo
+  sum=FirstNo+SecondNo
   echo ("Sum of $FirstNo and $SecondNo is $sum")
 }
